@@ -1,0 +1,9 @@
+// 1
+//.?.= The ? in category?._id is known as the optional chaining operator in JavaScript. It allows you to safely access deeply nested properties of an object without having to explicitly check if each reference in the chain is valid (not null or undefined).
+// ?._id: The optional chaining operator (?.) checks if category is not null or undefined before trying to access the _id property. If category is null or undefined, the expression will return undefined instead of throwing an error.
+
+
+//2
+//The some function in JavaScript is an array method that tests whether at least one element in the array passes the test implemented by the provided function. It returns a Boolean value: true if the callback function returns a truthy value for at least one element, and false otherwise.
+
+//3
